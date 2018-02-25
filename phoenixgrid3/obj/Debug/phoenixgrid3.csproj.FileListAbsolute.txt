@@ -1,0 +1,6 @@
+E:\NP_ITMariela\ExamExample01\phoenixgrid3\bin\Debug\phoenixgrid3.exe.config
+E:\NP_ITMariela\ExamExample01\phoenixgrid3\bin\Debug\phoenixgrid3.exe
+E:\NP_ITMariela\ExamExample01\phoenixgrid3\bin\Debug\phoenixgrid3.pdb
+E:\NP_ITMariela\ExamExample01\phoenixgrid3\obj\Debug\phoenixgrid3.csprojResolveAssemblyReference.cache
+E:\NP_ITMariela\ExamExample01\phoenixgrid3\obj\Debug\phoenixgrid3.exe
+E:\NP_ITMariela\ExamExample01\phoenixgrid3\obj\Debug\phoenixgrid3.pdb
