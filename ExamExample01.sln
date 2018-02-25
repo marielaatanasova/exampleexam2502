@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phoenixgrid3", "phoenixgrid3\phoenixgrid3.csproj", "{4E41131C-CAD2-4B79-93EE-71485733C80C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePhoenix4", "CodePhoenix4\CodePhoenix4.csproj", "{D8C5AE3B-D51C-40FC-B15F-2F1BFC9CFE45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4E41131C-CAD2-4B79-93EE-71485733C80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E41131C-CAD2-4B79-93EE-71485733C80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E41131C-CAD2-4B79-93EE-71485733C80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C5AE3B-D51C-40FC-B15F-2F1BFC9CFE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C5AE3B-D51C-40FC-B15F-2F1BFC9CFE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C5AE3B-D51C-40FC-B15F-2F1BFC9CFE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C5AE3B-D51C-40FC-B15F-2F1BFC9CFE45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
